@@ -2,6 +2,3 @@
 
 1. Design pattern : 
 
-layout: page
-title: "Design pattern"
-permalink: design-pattern
